@@ -10,6 +10,11 @@ namespace Advanced_Lesson_2_Inheritance
     {
         static void Main(string[] args)
         {
+            //Lesson.InheritanceExample();
+            //Lesson.ObjectVariablesExample();
+            Lesson.VirtualMethodExample();
+
+            Console.ReadLine();
         }
     }
 }
